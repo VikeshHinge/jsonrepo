@@ -60,5 +60,10 @@
         "age": 20,
         "email": "cnorssister9@mayoclinic.com"
       }
+    ],
+    "Todo":[
+        {"Task":"task-1","status":false},
+        {"Task":"task-2","status":false},
+        {"Task":"task-3","status":false}
     ]
   }
