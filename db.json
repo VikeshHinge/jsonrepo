@@ -67,6 +67,7 @@
         {"Task":"task-3","status":false}
     ],
     "hotels": [ {
+      "id":1,
       "category": "Family",
       "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "type_of_room": "AC",
@@ -75,5 +76,39 @@
       "capacity":"3",
       "cost":"4000",
       "booked":false
-    }]
+    },
+    {
+      "id":2,
+      "category": "Deluxe",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/107804/medium/55cdc62e9f93517c.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons":"3",
+      "capacity":"3",
+      "cost":"5500",
+      "booked":false
+    },
+    {
+      "id":3,
+      "category": "Suite",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/5842/medium/0822c7f4f8db40ee.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons":"2",
+      "capacity":"4",
+      "cost":"7000",
+      "booked":false
+    },
+    {
+      "id":4,
+      "category": "Family",
+      "image_url": "https://images.oyoroomscdn.com/uploads/hotel_image/14288/medium/e314884a5e5eac2c.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Single",
+      "no_of_persons":"2",
+      "capacity":"3",
+      "cost":"4000",
+      "booked":false
+    }
+  ]
   }
